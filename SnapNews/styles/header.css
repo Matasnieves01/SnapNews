@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    height: 100px;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.search_bar {
+
+}
+.left_section {
+    background-color:  lightblue; 
+    width: 400px;
+}
+.middle_section {
+    background-color: lightpink;
+    flex: 1;
+    margin-left: 35px;
+    margin-right: 65px;
+    max-width: 700px
+}
+.right_section {
+    background-color:  lightblue; 
+    width: 200px;
+}
+.snap_news_button {
+    
+}
